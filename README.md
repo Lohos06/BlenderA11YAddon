@@ -1,7 +1,5 @@
 # BlenderA11YAddon
 
-Gemini said
-Voici une version corrigée et plus professionnelle de votre texte. J'ai harmonisé les termes techniques (Blender utilise souvent le mot "workspace") et corrigé les fautes d'orthographe et de conjugaison.
 
 ## Parcours Utilisateur
 L'utilisateur arrive sur Blender, se rend dans les paramètres et configure l'ajout de l'extension.
