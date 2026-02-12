@@ -1,17 +1,33 @@
 # BlenderA11YAddon
 
+# Add-on Blender qui simplifie l’interface pour réduire la surcharge visuelle et améliorer la concentration, notamment pour les personnes DYS, TDAH ou sensibles aux distractions.
 
-## Parcours Utilisateur
-L'utilisateur arrive sur Blender, se rend dans les paramètres et configure l'ajout de l'extension.
+## 🎯 Objectifs :
 
-Une fois notre add-on ajouté, il doit soit ouvrir le panneau latéral (situé à droite, juste à côté du repère des axes XYZ), soit appuyer sur la touche N.
+Créer un workspace minimaliste en supprimant le superflu :
+- moins d’onglets
+- moins d’icônes
+- moins de panneaux
+- meilleure lisibilité
 
-Une fois le menu ouvert, il doit choisir l'onglet vertical nommé SIMPLE.
+## ✨ Fonctionalités:
+- Simple Mode → crée automatiquement un workspace propre et minimal
+- Toggle UI → masque les en-têtes et panneaux inutiles
+- Dyslexic Mode ON → applique une police plus lisible et agrandit l’interface
+- Dyslexic Mode OFF → rétablit la police par défaut de Blender
+- Simple Theme → applique un thème sombre doux avec un meilleur contraste pour rendre les couleurs et les modèles 3D plus lisibles
+- Reset Theme → restaure le thème Blender par défaut
 
-Il pourra ensuite cliquer sur les différents boutons selon ses besoins :
+## 👩‍💻 Utilisation
 
-- Bouton 1 : masquer l'en-tête (header).
+1. Installer l’extension dans Blender
+2. Ouvrir la Vue 3D
+3. Appuyer sur N 
+4. Onglet Light Interface
+5. Cliquer sur les boutons selon vos besoins
 
-- Bouton 2 : créer un nouveau plan de travail (workspace).
+## 🛠 Tech
 
-- Bouton 3 : supprimer tous les autres plans de travail (workspaces).
+Python • Blender API • UI scripting • Theme XML
+
+## Développeurs : Yasmine Meftah , Lorenzo L'Hostis , Clara Marchal
