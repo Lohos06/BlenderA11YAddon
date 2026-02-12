@@ -1,6 +1,6 @@
 # BlenderA11YAddon
 
-# Add-on Blender qui simplifie l’interface pour réduire la surcharge visuelle et améliorer la concentration, notamment pour les personnes DYS, TDAH ou sensibles aux distractions.
+Add-on Blender qui simplifie l’interface pour réduire la surcharge visuelle et améliorer la concentration, notamment pour les personnes DYS, TDAH ou sensibles aux distractions.
 
 ## 🎯 Objectifs :
 
