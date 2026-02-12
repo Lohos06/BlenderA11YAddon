@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "light_interface"
+name = "Light Interface"
+version = "0.0.2"
+tagline = "Simple distraction-free Blender UI"
+maintainer = "Equipe 3"
+type = "add-on"
+
+tags = ["User Interface"]
+
+blender_version_min = "5.0.1"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
